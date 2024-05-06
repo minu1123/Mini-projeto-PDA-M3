@@ -22,6 +22,5 @@ Reservar serviços diretamente pela plataforma ajuda a economizar tempo.
 Link para o diagrama + dowload sql project: [https://dbdiagram.io/d/6638fad39e85a46d551e8545]
 
 
-Link Projeto: [Linkdin]
+Link Projeto: [[Linkdin](https://www.linkedin.com/feed/update/urn:li:activity:7193283849710133248/)]
 
-Downloads Projeto SQL : 
