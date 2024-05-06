@@ -19,7 +19,7 @@ Fornecer transparência por meio de avaliações e sugestões de usuários.
 Reservar serviços diretamente pela plataforma ajuda a economizar tempo.
 
 
-Link para o diagrama: [https://dbdiagram.io/d/6638fad39e85a46d551e8545]
+Link para o diagrama + dowload sql project: [https://dbdiagram.io/d/6638fad39e85a46d551e8545]
 
 
 Link Projeto: [Linkdin]
